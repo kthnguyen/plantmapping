@@ -34,7 +34,7 @@ PolSAR pro (Polarimetric SAR data processing and Educational tool) | http://seom
 BRAT (Broadview Radar Altimetry Toolbox) | http://seom.esa.int/toolbox/ | BRAT provides analysis capability for Sentine-3 and Sentinel-6 radar altimetry (also available on Github)
 Isotutor on Github, from David R. Thompson, JPL| Introduction to plotting spectra	 https://github.com/davidraythompson/istutor /istutor/tree/master/01_Introduction | a series of open source python scripting for imaging spectrometer data analysis tutorials
 Github for using Earth Engine |	https://github.com/giswqs/earthengine-py-notebooks https://github.com/giswqs/qgis-earthengine-examples |
-Scientific Exploration of Operational Missions at ESA. Beam User Manual for Earth Observation Toolbox and Development Platform |	Seom.esa.int/toolbox/Beam_UserManual.php |	Many image processing tools and analysis tools
+Scientific Exploration of Operational Missions at ESA. Beam User Manual for Earth Observation Toolbox and Development Platform | Seom.esa.int/toolbox/Beam_UserManual.php | Many image processing tools and analysis tools
 		
 # 5. Research on upscaling plant trait data
 **[Review of optical-based remote sensing for plant trait mapping](https://doi.org/10.1016/j.ecocom.2013.06.003)**
