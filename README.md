@@ -21,4 +21,5 @@ Sentinel and Landsat data via Github | https://github.com/sentinelsat/sentinelsa
 MODIS data | https://github.com/ropensci/MODIStsp | 
 Spatial Data | https://github.com/16EAGLE/getSpatialData | 
 Simple tool for browsing multispectral and lidar satellite imagery | https://eos.com/education-training-and-research/land-viewer-as-a-tool/ | provides on-the-fly band computing; stereo imagery processed for terrain visualization in 2D and 3D
+R packages | [Link](https://docs.google.com/spreadsheets/d/1aYBsFcmY08Zi8Y1Hxp_-7mqApn__frS4S4MHDtwj9r0/edit?fbclid=IwAR25FBsCDkSB4JXaAG7-qJvaiSlvLcmnVa6nnlK5LEuj5t9oRz3bc6TjMVI#gid=950823967)|
 
