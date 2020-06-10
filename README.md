@@ -10,15 +10,16 @@ TRY database | https://www.try-db.org/TryWeb/Home.php |
 GLOPNET database | http://bio.mq.edu.au/~iwright/glopian.htm|
 FET database | http://www.fauna-flora.de/workshop2007/referate/jens_kattge_WS_11_12_04.pdf |
 
-## Research on upscaling plant trait data
+# Research on upscaling plant trait data
+## [Review of optical-based remote sensing for plant trait mapping](https://doi.org/10.1016/j.ecocom.2013.06.003)
 
-## Ecology tools
+# Ecology tools
 
 Tool | Source | Notes
 ------------ | ------------- | -------------
 R packages | [Link](https://docs.google.com/spreadsheets/d/1aYBsFcmY08Zi8Y1Hxp_-7mqApn__frS4S4MHDtwj9r0/edit?fbclid=IwAR25FBsCDkSB4JXaAG7-qJvaiSlvLcmnVa6nnlK5LEuj5t9oRz3bc6TjMVI#gid=950823967)|
 
-## Other RS data and tools
+# Other RS data and tools
 
 Dataset/Tool | Source | Notes
 ------------ | ------------- | -------------
