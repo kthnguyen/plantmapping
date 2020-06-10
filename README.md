@@ -1,6 +1,6 @@
 ## Intro
 
-This page lists all up-to-date mapping tools for plan traits survery
+This page lists all up-to-date mapping tools for plan traits
 
 ## Markdown
 
