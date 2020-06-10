@@ -36,6 +36,6 @@ Isotutor on Github, from David R. Thompson, JPL| Introduction to plotting spectr
 Github for using Earth Engine |	https://github.com/giswqs/earthengine-py-notebooks https://github.com/giswqs/qgis-earthengine-examples |
 Scientific Exploration of Operational Missions at ESA. Beam User Manual for Earth Observation Toolbox and Development Platform | Seom.esa.int/toolbox/Beam_UserManual.php | Many image processing tools and analysis tools
 		
-# 5. Research on upscaling plant trait data
+# 5. Research on plan trait mapping techniques
 **[Review of optical-based remote sensing for plant trait mapping](https://doi.org/10.1016/j.ecocom.2013.06.003)**
 
