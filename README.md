@@ -26,8 +26,7 @@ Sentinel and Landsat data via Github | https://github.com/sentinelsat/sentinelsa
 MODIS data | https://github.com/ropensci/MODIStsp | 
 Spatial Data | https://github.com/16EAGLE/getSpatialData | 
 Simple tool for browsing multispectral and lidar satellite imagery | https://eos.com/education-training-and-research/land-viewer-as-a-tool/ | provides on-the-fly band computing; stereo imagery processed for terrain visualization in 2D and 3D
-
-Openspectra, python tool for hyperspectral imagery |	 https://github.com/openspectra/openspectra | "ENVI-like", such that it can navigate around an image and view pixel spectra
+Openspectra, python tool for hyperspectral imagery |https://github.com/openspectra/openspectra | "ENVI-like", such that it can navigate around an image and view pixel spectra
 National Ecological Observation Network | https://www.neonscience.org/resources/data-tutorials?type=All&field_ds_tags_tid=1188&field_ds_languages_tid=All | open source R software and Python to analyze AOP hyperspectral imagery and Lidar data
 SNAP Sentinel Application Platform	| https://step.esa.int/main/toolboxes/snap/ | European Space Agency free, common software architecture for toolboxes designed for processing ESA Sentinel data
 Earth Observation Toolbox and Development Platform (Sentinels) | http://seom.esa.int/toolbox/ |
