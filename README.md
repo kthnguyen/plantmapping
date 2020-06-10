@@ -1,8 +1,8 @@
-## 1. Intro
+# 1. Intro
 
-This page lists all up-to-date mapping tools for plan traits.
+This page lists all up-to-date resources for plan trait mapping.
 
-## 2. Plant trait data
+# 2. Plant trait data
 
 Dataset | Source | Notes
 ------------ | ------------- | -------------
@@ -12,6 +12,7 @@ FET database | http://www.fauna-flora.de/workshop2007/referate/jens_kattge_WS_11
 
 # 3. Research on upscaling plant trait data
 **[Review of optical-based remote sensing for plant trait mapping](https://doi.org/10.1016/j.ecocom.2013.06.003)**
+
 
 # 4. Ecology tools
 
